@@ -1,0 +1,2 @@
+1. apt install tor && apt install nginx && apt install apache2 && apt install git && nano /etc/tor/torrc
+2. service tor stop && service tor start && sudo cat /var/lib/tor/hidden_service/hostname
